@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi, I'm Riya 
 
-<!--
-**Riya-kri/Riya-kri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | B.Tech CSE Student
 
-Here are some ideas to get you started:
+I am a Computer Science undergraduate passionate about software development, problem-solving, and continuous learning. I enjoy building projects, exploring new technologies, and strengthening my understanding of Data Structures and Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+* Java
+* JavaScript
+* HTML
+* CSS
+* Node.js
+* Express.js
+* MySQL
+* Git & GitHub
+
+## 🌱 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* Full-Stack Web Development
+* System Design
+* Open Source Contribution
+
+## 🚀 Projects
+
+* Portfolio Website
+* Spotify Clone
+* Simon Says Game
+
+## 🎯 Goals
+
+* Improve problem-solving skills through regular DSA practice
+* Build impactful full-stack applications
+* Contribute to open-source projects
+* Prepare for Software Engineering internships and placements
+
+## 📫 Connect With Me
+
+# Hi, I'm Riya 👋
+
+### Aspiring Software Engineer | B.Tech CSE Student
+
+I am a Computer Science undergraduate passionate about software development, problem-solving, and continuous learning. I enjoy building projects, exploring new technologies, and strengthening my understanding of Data Structures and Algorithms.
+
+## 💻 Tech Stack
+
+* Java
+* JavaScript
+* HTML5
+* CSS3
+* Node.js
+* Express.js
+* Git & GitHub
+
+## 🌱 Currently Learning
+
+* Advanced Data Structures & Algorithms
+* Full-Stack Web Development
+* System Design
+* Open Source Contribution
+
+## 🚀 Projects
+
+* Portfolio Website
+* Spotify Clone
+* Simon Says Game
+
+## 🎯 Goals
+
+* Improve problem-solving skills through regular DSA practice
+* Build impactful full-stack applications
+* Contribute to open-source projects
+* Prepare for Software Engineering internships and placements
+
+## 📫 Connect With Me
+
+* Email: [riyamuskan12345@gmail.com](mailto:riyamuskan12345@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/riya-kumari-a992a4301/
+
