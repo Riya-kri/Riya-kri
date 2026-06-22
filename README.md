@@ -2,8 +2,7 @@
 
 ### Aspiring Software Engineer | B.Tech CSE Student
 
-I am a Computer Science undergraduate passionate about software development, problem-solving, and continuous learning. I enjoy building projects, exploring new technologies, and strengthening my understanding of Data Structures and Algorithms.
-
+Undergraduate Computer Science Student With A Strong Foundation In JAVA And Data Structures. Highly Proficient In Building And Debugging Scalable Applications Through Personal Projects And Academic Experiences. A Quick Learner With A Collaborative Mindset, Eager To Contribute To Innovative Development Teams While Leveraging Modern Technologies To Solve Real-World Problems."
 ## 💻 Tech Stack
 
 * Java
