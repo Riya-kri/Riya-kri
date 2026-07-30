@@ -13,6 +13,7 @@ Undergraduate Computer Science Student With A Strong Foundation In JAVA And Data
 * Express.js
 * MySQL
 * Git & GitHub
+* Mongodb
 
 ## 🌱 Currently Learning
 
@@ -23,6 +24,7 @@ Undergraduate Computer Science Student With A Strong Foundation In JAVA And Data
 
 ## 🚀 Projects
 
+* Airbnb Project
 * Portfolio Website
 * Spotify Clone
 * Simon Says Game
